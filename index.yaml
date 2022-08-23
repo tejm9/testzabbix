@@ -7,8 +7,8 @@ entries:
       home: https://tejm9.github.io/
       name: zabbix
       sources:
-      - https://tejm9.github.io/helm_charts/
+      - https://tejm9.github.io/testzabbix
       urls:
-      - https://tejm9.github.io/helm_charts/zabbix-3.1.1.tgz
-      version: 3.1.1
+      - https://tejm9.github.io/testzabbix/helm_charts/zabbix-3.1.1.tgz
+      version: 1.0.0
 generated: 2022-08-23T16:57:20.499814565-06:00

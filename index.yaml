@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  zabbix:
+    - created: 2022-08-23T16:57:20.499814565-06:00
+      description: Deploy Zabbix
+      digest: 99c76e403d752c84ead610644d4b1c2f2b453a74b921f422b9dcb8a7c8b559cd
+      home: https://tejm9.github.io/
+      name: zabbix
+      sources:
+      - https://tejm9.github.io/helm_charts/
+      urls:
+      - https://tejm9.github.io/helm_charts/zabbix-3.1.1.tgz
+      version: 3.1.1
+generated: 2022-08-23T16:57:20.499814565-06:00
